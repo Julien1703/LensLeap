@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Rose",
+        "details": "Rosen sollten wöchentlich gegossen werden. Außerdem sollte man sie jedes Frühjahr stutzen",
+        "images": "/images/rose.jpg"
+    
+    },
+    {
+        "title": "Tulpe",
+        "details": "Tulpen sind Frühlingsblumen. Sie sollten im Herbst gepfalnzt werden",
+        "images": "/images/tulpe.jpg"
+    
+    }
+    ]
